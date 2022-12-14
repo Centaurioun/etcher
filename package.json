@@ -67,7 +67,7 @@
     "chai": "4.2.0",
     "copy-webpack-plugin": "7.0.0",
     "css-loader": "5.0.1",
-    "d3": "4.13.0",
+    "d3": "7.6.1",
     "debug": "4.2.0",
     "electron": "12.2.3",
     "electron-builder": "22.10.5",
